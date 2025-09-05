@@ -9,11 +9,13 @@ Sou aluna do <b>senac</b>, do curso multimidia, estudante do Heitor Penteado, eu
 ---
 
 ## 🚀 Minhas Skills
+<div align="center" styles="display": inline_block>
 <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
 <code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
 <code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
 <code><img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
  <code><img src="https://skillicons.dev/icons?i=twitter" height="50" alt="html logo" />
+ </div>
 ---
 
 ## ⭐ GitHub Stats
